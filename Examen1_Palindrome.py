@@ -60,7 +60,7 @@ class LinkedList:
 
 """ 
 appendL(*value)         => Añade el valor del parameto o parametros a la lista.
-isPalindrom(instance)   => Retorna un boleano, false en caso de que la instancia no sea un palindrome y true en caso contrario
+isPalindrom()           => Retorna un boleano, false en caso de que la instancia no sea un palindrome y true en caso contrario
 printL()                => Imprime el valor de todos los elementos en la lista.
 printTailBackL()        => Imprime el valor de todos los elementos de la lista de manera inversa.
 _auxAppendL()           => Metodo privado que añade valores a la lista.
